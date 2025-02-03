@@ -1,4 +1,5 @@
-i = 1
+# printing hello 5 times
+i= 1
 while i <= 5:
  print ("hello")
  i += 1
