@@ -39,3 +39,5 @@ Nested If Statements:
 Implement a program that checks if a number is positive, negative, or zero.
 Looping Control Flow:
 Use a loop to print the numbers from 1 to 10
+Code Correction
+Code Correction Pt2
